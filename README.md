@@ -1,4 +1,4 @@
-ブログ[「名前を付けて保存」](https://save-as.hatenablog.com/entry/2020/10/19/180000)に掲載している[「木下古栗全作品リスト」](https://save-as.hatenablog.com/entry/2020/10/19/180000)の、管理用リポジトリです。  
+ブログ[「名前を付けて保存」](https://save-as.hatenablog.com)に掲載している[「木下古栗全作品リスト」](https://save-as.hatenablog.com/entry/2020/10/19/180000)の、管理用リポジトリです。  
 ブログのエントリには最新版のものを掲載しておきます。  
 情報訂正のプルリクなども受け付けます。  
   
