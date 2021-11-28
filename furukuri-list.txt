@@ -124,5 +124,10 @@
 -「珍フルエンサー栗美」（『UOMO』2021年10月号～）
 
 
+***インタビュー
+-「木下古栗さんインタビュー」（[https://bookshorts.jp/kinoshitafurukuri:title=「BOOK SHORTS」]2016年5月）
+-「作家は過剰な下品さを道具として使い、文学の山を登る。」（[https://bookshorts.jp/kinoshitafurukuri:title=「ほぼ日刊イトイ新聞」]2021年6月）
+
+
 2021/11/09追記：変更履歴をいちいち書いたりするのがいい加減面倒くさくなってきたのと、変更点がわからないのはよろしくないなと思ったため、リストをGitで管理することにしました。このエントリには最新版のものを掲載しておきます。情報訂正のプルリクなども受け付けます。
 [https://github.com/save-as-blog/furukuri-list:embed:cite]
